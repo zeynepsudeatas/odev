@@ -1,0 +1,10 @@
+
+Merge Sort aşamaları:
+
+[16, 21, 11, 8, 12, 22] (Dizi 2'ye bölündü)
+[16, 21, 11, 8, 12, 22] (Dizi 2'ye bölündü)
+[16, 21, 11, 8, 12, 22] (Dizi 2'ye bölündü)
+[16, 21, 11, 8, 12, 22] (Dizi 2'ye bölündü)
+[11, 16, 21, 8, 12, 22] (Birleştirme)
+[8, 11, 12, 16, 21, 22] (Birleştirme)
+Big-O gösterimi: O(n log n)
