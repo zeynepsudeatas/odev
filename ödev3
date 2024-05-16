@@ -1,0 +1,12 @@
+Binary Search Tree (BST) aşamaları:
+
+Root 7'dir. Sağına 5 bulunur.
+5'in soluna 1 bulunur.
+1'in sağına 3 bulunur.
+3'ün sağına 4 bulunur.
+5'in sağına 8 bulunur.
+8'in soluna 6 bulunur.
+6'nın sağına 9 bulunur.
+Root'un sağına 9 bulunur.
+Root'un soluna 0 bulunur.
+0'ın sağına 2 bulunur.
